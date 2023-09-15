@@ -11,19 +11,19 @@ Automated driving, Intelligent electric vehicles, Intelligent transportation sys
 I am highly devoted to the automobile industry and intensely interested in autonomous robotics, and multi-agent reinforcement learning. I have a strong sense of responsibility and extraordinary ability of team communication and cooperation, thus able to get along well with other members in a team. I am good at analyzing, thinking and summarizing, and can therefore get used to new fields easily. With the experience as an exchange student for half a year, I can communicate with people in English fluently.
 
 ## Education
-### M.E. in Mechanical Engineering, University of Science and Technology Beijing 
+### M.E. in Mechanical Engineering, [University of Science and Technology Beijing](https://en.ustb.edu.cn/) 
 #### _September 2021 - June 2024 (expected)_
 - GPA: 3.62/4.0  
 - Rank: 26/67
 - Centesimal grade average: 86.2
 
-### B.E. in Mechanical Engineering, University of Science and Technology Beijing 
+### B.E. in Mechanical Engineering, [University of Science and Technology Beijing](https://en.ustb.edu.cn/)
 #### _September 2017 - June 2021_
 - GPA: 3.68/4.0  
 - Rank: 9/60
 - Centesimal grade average: 87.3
 
-### Exchange Student in Mechanical Engineering, National Taipei University of Technology 
+### Exchange Student in Mechanical Engineering, [National Taipei University of Technology](https://www-en.ntut.edu.tw/) 
 #### _September 2019 - January 2020_
 - GPA: 3.82/4.0  
 - Centesimal grade average: 88.3
@@ -70,30 +70,30 @@ Autonomous mining transportation is an intelligent traffic control system that c
 In typical mining transportation, conventional scheduling and human controlled approaches often cause lower efficiency and sub-optimal problems, including wasting resource, consuming more energy, and safety risk. The smarter truck fleet dispatching system with Artificial intelligence is a feasible and operative solution to alleviate existing conditions. In this study, a new open pit mining haulage simulation environment that allows testing various dispatching approaches is set up. Deep Q-Network as a model-free reinforcement learning system is integrated with a velocity optimization method to improve the efficiency, decreasing the waiting time and energy consumption. The proposed method trains the fleet to make better decisions regarding on payload, queueing time and waiting truck numbers
 
 ## Social Activities
-### 1. China National Heavy Duty Truck Group Co., Ltd.    Jinan, CHN
+### 1. [China National Heavy Duty Truck Group Co., Ltd.](https://en.sinotrukinternational.com/)    Jinan, CHN
 #### _Intern in Light Truck_    July 2022-September 2022
 - Analyzed the market of refrigerator cars and modifies the chassis structure of light trucks to meet the national standard.
 - Modified and adapted the truck chassis to achieve refrigeration, insulation, storage, monitoring, and other functions.
 
-### 2. German Association of the Automotive Industry    Beijing, CHN
+### 2. [German Association of the Automotive Industry](https://www.vda.cn/en)    Beijing, CHN
 #### _Intern in in China Office_    September 2020 - December 2020
 - Coordinated with Chinese and German staff in English and updated the German manager's calendar.
 - Translated the German manager's English speech and summarized the latest automobile industry development in China.
 - Dealt with the office administrative work and supported the company in organizing automobile forum activities.
 - Analyzed European and Chinese electric vehicle market data and development policies.
 
-### 3. Midea Group Co., Ltd.    Foshan, CHN
+### 3. [Midea Group Co., Ltd.](https://www.midea-group.com/)    Foshan, CHN
 #### _Intern in Lean Management_     June 2020 - August 2020
 - Made statistics on the operation time of different manufacturing lines, and accurately adjusted the production sequence.
 - Carried out simulation of automatic logistics vehicles in plants and improved transport efficiency by 1.2%
 
 ## Awards & Honors
 - **The Second Price Scholarship**, _University of Science and Technology Beijing_, 2023
-- **The Second Price Scholarship**, _Roberto Rocca Scholarship_, 2023
+- **The Second Price Scholarship**, [_Roberto Rocca Scholarship_](https://www.robertorocca.org/es/becas/de-doctorado/fellowships), 2023
 - **Excellent Graduate Cadre**, _University of Science and Technology Beijing_, 2022
 - **The Second Price Scholarship**, _University of Science and Technology Beijing_, 2022
 - **Bronze Award**, _3-Minute Thesis Speech Contest, University of Science and Technology Beijing_, 2022
-- **National Second Prize**, _China Industrial Internet Contest_, 2021
+- **National Second Prize**, [_China Industrial Internet Contest_](https://www.simapps.com/v/28644.html), 2021
 - **Outstanding Graduates**, _University of Science and Technology Beijing_, 2021
 - **The Third Price Scholarship**, _University of Science and Technology Beijing_, 2020
 - **Top 10 Golden Team**, _Alumni Liaison and Development Association, University of Science and Technology Beijing_, 2020
@@ -119,12 +119,12 @@ Calculus AI (92), Engineering Physics BI (93), Calculus AII (93), Theoretical Me
 - **Hobbey**         Swimming, Bodybuilding, Photography
 
 ## References
-###  Dr. Jue Yang
+###  [Dr. Jue Yang](http://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/468.html)
 - **Professor**, _School of Mechanical Engineering_
 - University of Science and Technology Beijing
 - Email: yangjue@ustb.edu.cn
 
-###  Dr. Xinxin Zhao
+###  [Dr. Xinxin Zhao](http://me.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2022-03-24/443.html)
 - **Assistant Professor**, _School of Mechanical Engineering_
 - University of Science and Technology Beijing
 - Email: xinxinzhao@ustb.edu.cn
