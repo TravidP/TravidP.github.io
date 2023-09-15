@@ -44,14 +44,14 @@ I am highly devoted to the automobile industry and intensely interested in auton
 ![Research2](/withoutcab.png)
 
 - Designed a solution for battery exchange transfer and system, remote control, and install the various sensors.
-- Analyze and diagnose the breakdown of the autonomous vehicle, including TCS, EBS and Hydraulic steering system.
+- Analyze and diagnose the breakdown of the autonomous vehicle, including TCS, EBS and Hydraulic steering system.png
 - Enhanced the full-time autonomous operation capability to reach more than 120% of the manual by EV trucks.
 - Dispatched 10 homogeneous autonomous vehicles in a closed mining area by using the intelligent system in real-time.
 
 ### 3. Optimal Speed Trajectory of Mining Vehicle
 #### _2021 – 2022_
 
-![Research3](/FigureDP.jpg)
+![Research3](/DP.png)
 
 - A multi-objective speed trajectory optimization method using dynamic programming was proposed considering travel time, energy consumption, and battery lifetime. And it is verified on the fuel and electric vehicle models.
 - The results spend less time and it runs with less velocity fluctuations. It is a kind of Pareto optimal trade-off.
