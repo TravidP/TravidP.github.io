@@ -51,7 +51,7 @@ I am highly devoted to the automobile industry and intensely interested in auton
 ### 3. Optimal Speed Trajectory of Mining Vehicle
 #### _2021 – 2022_
 
-![Research3](/FigureDP.png)
+![Research3](/FigureDP.jpg)
 
 - A multi-objective speed trajectory optimization method using dynamic programming was proposed considering travel time, energy consumption, and battery lifetime. And it is verified on the fuel and electric vehicle models.
 - The results spend less time and it runs with less velocity fluctuations. It is a kind of Pareto optimal trade-off.
