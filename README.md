@@ -88,5 +88,43 @@ In typical mining transportation, conventional scheduling and human controlled a
 - Carried out simulation of automatic logistics vehicles in plants and improved transport efficiency by 1.2%
 
 ## Awards & Honors
--
+- **The Second Price Scholarship**, _University of Science and Technology Beijing_, 2023
+- **The Second Price Scholarship**, _Roberto Rocca Scholarship_, 2023
+- **Excellent Graduate Cadre**, _University of Science and Technology Beijing_, 2022
+- **The Second Price Scholarship**, _University of Science and Technology Beijing_, 2022
+- **Bronze Award**, _3-Minute Thesis Speech Contest, University of Science and Technology Beijing_, 2022
+- **National Second Prize**, _China Industrial Internet Contest_, 2021
+- **Outstanding Graduates**, _University of Science and Technology Beijing_, 2021
+- **The Third Price Scholarship**, _University of Science and Technology Beijing_, 2020
+- **Top 10 Golden Team**, _Alumni Liaison and Development Association, University of Science and Technology Beijing_, 2020
+- **The Third Price Scholarship**, _University of Science and Technology Beijing_, 2019
+- **The Third Price Scholarship**, _University of Science and Technology Beijing_, 2018
+- **Excellent Student Cadre**, _University of Science and Technology Beijing_, 2018
+- **Advanced Individual**, _University of Science and Technology Beijing_, 2018
+- **Merit Student**, _University of Science and Technology Beijing_, 2018
+- **The Second Price**, _Smile Relay Interpretation Contest, University of Science and Technology Beijing_, 2017
+- **Excellent Student Cadre**, _University of Science and Technology Beijing_, 2017
 
+## Selected Courses
+### Postgraduate:
+Operational Research (82), Mathematical Modeling (92), Modern Control Theory (90), Signal Analysis and Processing (86), Intelligent Algorithm (92), Vehicle System Dynamics (87), Equipment Fault Diagnosis Technology (83), Special Vehicle Design (88), Intelligent Technology of Engineering Vehicle (87), Digital Image Processing (88).
+
+### Undergraduate:
+Calculus AI (92), Engineering Physics BI (93), Calculus AII (93), Theoretical Mechanics A (98), Thermal Engineering (92), Engineering Physics BII (93), Mechanics of Materials (90), Probability & Mathematical Statistics A (92), Meauring and control experiment (92), Automatic Control Theory (97), Mechanical Design (90), Principles and Applications of Microcomputers (99), Automatic Transmission (95).
+
+## Skills
+- **Programming**    Matlab, LaTex, Python, Pytorch, C/C++, Simpy
+- **Language**       Chinese(Mother Tongue), English(IELTS 7.5)
+- **Software**       Office, Endnote, Visio, Solidworks, CAD, Carsim, Simulink
+- **Hobbey**         Swimming, Bodybuilding, Photography
+
+## References
+###  Dr. Jue Yang
+- **Professor**, _School of Mechanical Engineering_
+- University of Science and Technology Beijing
+- Email: yangjue@ustb.edu.cn
+
+###  Dr. Xinxin Zhao
+- **Assistant Professor**, _School of Mechanical Engineering_
+- University of Science and Technology Beijing
+- Email: xinxinzhao@ustb.edu.cn
