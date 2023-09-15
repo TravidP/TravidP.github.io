@@ -84,11 +84,17 @@ In typical mining transportation, conventional scheduling and human controlled a
 ## Social Activities
 ### 1. [China National Heavy Duty Truck Group Co., Ltd.](https://en.sinotrukinternational.com/)    Jinan, CHN
 #### _Intern in Light Truck_    July 2022-September 2022
+
+![intern1](/zhongqi.png)
+
 - Analyzed the market of refrigerator cars and modifies the chassis structure of light trucks to meet the national standard.
 - Modified and adapted the truck chassis to achieve refrigeration, insulation, storage, monitoring, and other functions.
 
 ### 2. [German Association of the Automotive Industry](https://www.vda.cn/en)    Beijing, CHN
 #### _Intern in China Office_    September 2020 - December 2020
+
+![intern2](/VDA.jpg)
+
 - Coordinated with Chinese and German staff in English and updated the German manager's calendar.
 - Translated the German manager's English speech and summarized the latest automobile industry development in China.
 - Dealt with the office administrative work and supported the company in organizing automobile forum activities.
@@ -96,6 +102,9 @@ In typical mining transportation, conventional scheduling and human controlled a
 
 ### 3. [Midea Group Co., Ltd.](https://www.midea-group.com/)    Foshan, CHN
 #### _Intern in Lean Management_     June 2020 - August 2020
+
+![intern3](/midea.png)
+
 - Made statistics on the operation time of different manufacturing lines, and accurately adjusted the production sequence.
 - Carried out simulation of automatic logistics vehicles in plants and improved transport efficiency by 1.2%.
 
