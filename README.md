@@ -37,7 +37,7 @@ I am highly devoted to the automobile industry and intensely interested in auton
 
 ### 2. the Electric Autonomous Mining Truck Without Cabin
 #### _2022 - Present_
-- Designed a solution for battery exchange transfer and system, remote control, and install the virous sensors.
+- Designed a solution for battery exchange transfer and system, remote control, and install the various sensors.
 - Analyze and diagnose the breakdown of the autonomous vehicle, including TCS, EBS and Hydraulic steering system.
 - Enhanced the full-time autonomous operation capability to reach more than 120% of the manual by EV trucks.
 - Dispatched 10 homogeneous autonomous vehicles in a closed mining area by using the intelligent system in real-time.
@@ -45,7 +45,7 @@ I am highly devoted to the automobile industry and intensely interested in auton
 ### 3. Optimal Speed Trajectory of Mining Vehicle
 #### _2021 – 2022_
 - A multi-objective speed trajectory optimization method using dynamic programming was proposed considering travel time, energy consumption, and battery lifetime. And it is verified on the fuel and electric vehicle models.
-- The results spend less time and it run with less velocity fluctuations. It is a kind of Pareto optimal trade-off.
+- The results spend less time and it runs with less velocity fluctuations. It is a kind of Pareto optimal trade-off.
 - It’s found that the velocity trajectory adopts different frequencies of PnG approach as the gradient of routes changed.
 
 ### 4. Theoretical Research on Autonomous Vehicles Based on ROS2
@@ -76,7 +76,7 @@ In typical mining transportation, conventional scheduling and human controlled a
 - Modified and adapted the truck chassis to achieve refrigeration, insulation, storage, monitoring, and other functions.
 
 ### 2. [German Association of the Automotive Industry](https://www.vda.cn/en)    Beijing, CHN
-#### _Intern in in China Office_    September 2020 - December 2020
+#### _Intern in China Office_    September 2020 - December 2020
 - Coordinated with Chinese and German staff in English and updated the German manager's calendar.
 - Translated the German manager's English speech and summarized the latest automobile industry development in China.
 - Dealt with the office administrative work and supported the company in organizing automobile forum activities.
@@ -85,7 +85,7 @@ In typical mining transportation, conventional scheduling and human controlled a
 ### 3. [Midea Group Co., Ltd.](https://www.midea-group.com/)    Foshan, CHN
 #### _Intern in Lean Management_     June 2020 - August 2020
 - Made statistics on the operation time of different manufacturing lines, and accurately adjusted the production sequence.
-- Carried out simulation of automatic logistics vehicles in plants and improved transport efficiency by 1.2%
+- Carried out simulation of automatic logistics vehicles in plants and improved transport efficiency by 1.2%.
 
 ## Awards & Honors
 - **The Second Price Scholarship**, _University of Science and Technology Beijing_, 2023
