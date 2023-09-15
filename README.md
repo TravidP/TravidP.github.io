@@ -31,12 +31,18 @@ I am highly devoted to the automobile industry and intensely interested in auton
 ## Research Experience
 ### 1. Reinforcement Learning-Based Fleet Dispatching
 #### _2022 - Present_
+
+![Research1](/DQN2.png)
+
 - Develop an event-based mining simulator with parameters calibrated in real mines.
 - Propose a Deep Q-Learning method that learns memories from heterogeneous agents based on payload, traffic, queueing, and location to solve the dynamic dispatching problem in mining.
 - The proposed solution shows advantages in handling operational randomness and balancing fleet size, and productivity.
 
 ### 2. the Electric Autonomous Mining Truck Without Cabin
 #### _2022 - Present_
+
+![Research2](/withoutcab.png)
+
 - Designed a solution for battery exchange transfer and system, remote control, and install the various sensors.
 - Analyze and diagnose the breakdown of the autonomous vehicle, including TCS, EBS and Hydraulic steering system.
 - Enhanced the full-time autonomous operation capability to reach more than 120% of the manual by EV trucks.
@@ -44,12 +50,18 @@ I am highly devoted to the automobile industry and intensely interested in auton
 
 ### 3. Optimal Speed Trajectory of Mining Vehicle
 #### _2021 – 2022_
+
+![Research3](/FigureDP.png)
+
 - A multi-objective speed trajectory optimization method using dynamic programming was proposed considering travel time, energy consumption, and battery lifetime. And it is verified on the fuel and electric vehicle models.
 - The results spend less time and it runs with less velocity fluctuations. It is a kind of Pareto optimal trade-off.
 - It’s found that the velocity trajectory adopts different frequencies of PnG approach as the gradient of routes changed.
 
 ### 4. Theoretical Research on Autonomous Vehicles Based on ROS2
 #### _2021 – 2022_
+
+![Research4](/ROS2LOGIC0418.jpg)
+
 - Based on ROS2 in the Ubuntu22.04 system, built nodes for perception, localization, path planning, and MPC tracking.
 - Designed topics of publish-subscribe nodes using C++, and debugged vehicles in the gazebo simulation environment.
 - RRT search algorithm was used to find the feasible path, and MPC was used to track and control.
