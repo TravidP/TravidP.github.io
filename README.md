@@ -12,10 +12,22 @@ I am highly devoted to the automobile industry and intensely interested in auton
 
 ## Education
 ### M.E. in Mechanical Engineering, University of Science and Technology Beijing 
-- September 2021 - June 2024 (expected)
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+#### September 2021 - June 2024 (expected)
+- GPA: 3.62/4.0  
+- Rank: 26/67
+- Centesimal grade average: 86.2
+
+### B.E. in Mechanical Engineering, University of Science and Technology Beijing 
+#### September 2017 - June 2021
+- GPA: 3.68/4.0  
+- Rank: 9/60
+- Centesimal grade average: 87.3
+
+### Exchange Student in Mechanical Engineering, University of Science and Technology Beijing 
+#### September 2019 - January 2020
+- GPA: 3.82/4.0  
+- Centesimal grade average: 88.3
+
 
 
 
