@@ -3,7 +3,7 @@
 ### Hi there 👋, my dear friends!
 - 🔭 I’m currently looking for a PhD position to apply for Fall 2024.
 - 💌 peishuwei9@live.com
-- 📑 [PDF CV](https://travidp.github.io/ShuweiPei_PhD20230926_EN.pdf)
+- 📑 [PDF Simple CV](https://travidp.github.io/ShuweiPei_PhD20230926_EN.pdf)
 
 ### Research Interest
 Automated driving, Intelligent electric vehicles, Intelligent transportation systems, Velocity optimization, Deep reinforcement learning, Vehicle Dynamics and Control, Decision making, Energy consumption
