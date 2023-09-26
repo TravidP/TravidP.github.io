@@ -81,7 +81,7 @@ Autonomous mining transportation is an intelligent traffic control system that c
 - Designed topics of publish-subscribe nodes using C++, and debugged vehicles in the gazebo simulation environment.
 - RRT search algorithm was used to find the feasible path, and MPC was used to track and control.
 
-## Social Activities
+## Working Experience
 ### 1. [China National Heavy Duty Truck Group Co., Ltd.](https://en.sinotrukinternational.com/)    Jinan, CHN
 #### _Intern in Light Truck_    July 2022-September 2022
 
