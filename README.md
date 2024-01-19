@@ -1,4 +1,4 @@
-# Personal information
+# Shuwei Pei/ Travid
 
 ### Hi there 👋, my dear friends!
 - 🔭 I’m currently looking for a PhD position to apply for Fall 2024.
