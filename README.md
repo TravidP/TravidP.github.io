@@ -6,7 +6,7 @@
 - 👨‍🏫 [Academic Pre](https://travidp.github.io/Academic_Presentation_phd_ShuweiPei_PDF.pdf)
 - 📝 [Speech Notes](https://travidp.github.io/Academic_Presentation_PPT讲义.pdf)
 - 📑 [PDF Simple CV](https://travidp.github.io/ShuweiPei_PhD20230926_EN.pdf)
-- 🎓 [中文简历](https://travidp.github.io/北京科技大学-硕士-裴树伟-机械工程（20240307）.pdf)
+- 🎓 [中文简历](https://travidp.github.io/20240307ShuweiPei_CN_CV.pdf)
 - 👀 [双语简历](https://travidp.github.io/裴树伟中英文简历word旧版20221221.pdf)
 
 
